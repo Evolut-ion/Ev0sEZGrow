@@ -1,0 +1,18 @@
+{
+  "Group": "Ev0sMods",
+  "Name": "Ev0sEZGrow",
+  "Version": "1.0.0",
+  "Description": "Ev0's EZ Grow! Crouch to instantly advance all nearby crops and saplings within radius.",
+  "Authors": [{
+    "Name": "OfficialEv0"
+  }],
+  "Website": "",
+  "ServerVersion": ">=0.5.0-pre.9.1",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "Main": "com.Ev0sMods.Ev0sEZGrow.Ev0sEZGrowPlugin",
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
